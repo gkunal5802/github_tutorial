@@ -1,0 +1,5 @@
+this is used to test git diff command
+
+now we will implement it.
+
+now we will implement git diff --staged command
